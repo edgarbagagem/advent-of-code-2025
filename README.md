@@ -1,1 +1,2 @@
-# Advent of Code 2025 by me
+Advent of Code 2025 solution by me
+
